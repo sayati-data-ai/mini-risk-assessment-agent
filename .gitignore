@@ -1,0 +1,12 @@
+./.airflow-venv/bin/dbt-core-experimental-parser
+./.airflow-venv/Data/*
+./dbt/target/
+./dbt/dbt_packages/
+./dbt/logs/
+
+./airflow-evnv/bin/
+./airflow-evnv/lib/
+./airflow-evnv/include/
+./airflow-evnv/lib/python*/site-packages/
+
+./report.xlsx
