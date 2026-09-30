@@ -1,0 +1,101 @@
+cust_id,customer_name,country_of_residence,country_of_birth,date_of_birth,record_arrival_date
+1,James Smith,United States,United Kingdom,1980-04-10,2026-08-02
+2,Mary Johnson,United Kingdom,Canada,1980-07-19,2026-08-03
+3,John Williams,Canada,Australia,1980-10-27,2026-08-04
+4,Patricia Brown,Australia,India,1981-02-04,2026-08-05
+5,Robert Jones,India,United States,1981-05-15,2026-08-06
+6,Jennifer Garcia,United States,United Kingdom,1981-08-23,2026-08-07
+7,Michael Miller,United Kingdom,Canada,1981-12-01,2026-08-08
+8,Linda Davis,Canada,Australia,1982-03-11,2026-08-09
+9,William Rodriguez,Australia,India,1982-06-19,2026-08-10
+10,Elizabeth Martinez,India,United States,1982-09-27,2026-08-01
+11,David Hernandez,United States,United Kingdom,1983-01-05,2026-08-02
+12,Barbara Lopez,United Kingdom,Canada,1983-04-15,2026-08-03
+13,Richard Gonzalez,Canada,Australia,1983-07-24,2026-08-04
+14,Susan Wilson,Australia,India,1983-11-01,2026-08-05
+15,Joseph Anderson,India,United States,1984-02-09,2026-08-06
+16,Jessica Thomas,United States,United Kingdom,1984-05-19,2026-08-07
+17,Thomas Taylor,United Kingdom,Canada,1984-08-27,2026-08-08
+18,Sarah Moore,Canada,Australia,1984-12-05,2026-08-09
+19,Charles Jackson,Australia,India,1985-03-15,2026-08-10
+20,Karen Martin,India,United States,1985-06-23,2026-08-01
+21,James Smith,United States,United Kingdom,1985-10-01,2026-08-02
+22,Mary Johnson,United Kingdom,Canada,1986-01-09,2026-08-03
+23,John Williams,Canada,Australia,1986-04-19,2026-08-04
+24,Patricia Brown,Australia,India,1986-07-28,2026-08-05
+25,Robert Jones,India,United States,1986-11-05,2026-08-06
+26,Jennifer Garcia,United States,United Kingdom,1987-02-13,2026-08-07
+27,Michael Miller,United Kingdom,Canada,1987-05-24,2026-08-08
+28,Linda Davis,Canada,Australia,1987-09-01,2026-08-09
+29,William Rodriguez,Australia,India,1987-12-10,2026-08-10
+30,Elizabeth Martinez,India,United States,1988-03-19,2026-08-01
+31,David Hernandez,United States,United Kingdom,1988-06-27,2026-08-02
+32,Barbara Lopez,United Kingdom,Canada,1988-10-05,2026-08-03
+33,Richard Gonzalez,Canada,Australia,1989-01-13,2026-08-04
+34,Susan Wilson,Australia,India,1989-04-23,2026-08-05
+35,Joseph Anderson,India,United States,1989-08-01,2026-08-06
+36,Jessica Thomas,United States,United Kingdom,1989-11-09,2026-08-07
+37,Thomas Taylor,United Kingdom,Canada,1990-02-17,2026-08-08
+38,Sarah Moore,Canada,Australia,1990-05-28,2026-08-09
+39,Charles Jackson,Australia,India,1990-09-05,2026-08-10
+40,Karen Martin,India,United States,1990-12-14,2026-08-01
+41,James Smith,United States,United Kingdom,1991-03-24,2026-08-02
+42,Mary Johnson,United Kingdom,Canada,1991-07-02,2026-08-03
+43,John Williams,Canada,Australia,1991-10-10,2026-08-04
+44,Patricia Brown,Australia,India,1992-01-18,2026-08-05
+45,Robert Jones,India,United States,1992-04-27,2026-08-06
+46,Jennifer Garcia,United States,United Kingdom,1992-08-05,2026-08-07
+47,Michael Miller,United Kingdom,Canada,1992-11-13,2026-08-08
+48,Linda Davis,Canada,Australia,1993-02-21,2026-08-09
+49,William Rodriguez,Australia,India,1993-06-01,2026-08-10
+50,Elizabeth Martinez,India,United States,1993-09-09,2026-08-01
+51,David Hernandez,United States,United Kingdom,1993-12-18,2026-08-02
+52,Barbara Lopez,United Kingdom,Canada,1994-03-28,2026-08-03
+53,Richard Gonzalez,Canada,Australia,1994-07-06,2026-08-04
+54,Susan Wilson,Australia,India,1994-10-14,2026-08-05
+55,Joseph Anderson,India,United States,1995-01-22,2026-08-06
+56,Jessica Thomas,United States,United Kingdom,1995-05-02,2026-08-07
+57,Thomas Taylor,United Kingdom,Canada,1995-08-10,2026-08-08
+58,Sarah Moore,Canada,Australia,1995-11-18,2026-08-09
+59,Charles Jackson,Australia,India,1996-02-26,2026-08-10
+60,Karen Martin,India,United States,1996-06-05,2026-08-01
+61,James Smith,United States,United Kingdom,1996-09-13,2026-08-02
+62,Mary Johnson,United Kingdom,Canada,1996-12-22,2026-08-03
+63,John Williams,Canada,Australia,1997-04-01,2026-08-04
+64,Patricia Brown,Australia,India,1997-07-10,2026-08-05
+65,Robert Jones,India,United States,1997-10-18,2026-08-06
+66,Jennifer Garcia,United States,United Kingdom,1998-01-26,2026-08-07
+67,Michael Miller,United Kingdom,Canada,1998-05-06,2026-08-08
+68,Linda Davis,Canada,Australia,1998-08-14,2026-08-09
+69,William Rodriguez,Australia,India,1998-11-22,2026-08-10
+70,Elizabeth Martinez,India,United States,1999-03-02,2026-08-01
+71,David Hernandez,United States,United Kingdom,1999-06-10,2026-08-02
+72,Barbara Lopez,United Kingdom,Canada,1999-09-18,2026-08-03
+73,Richard Gonzalez,Canada,Australia,1999-12-27,2026-08-04
+74,Susan Wilson,Australia,India,2000-04-05,2026-08-05
+75,Joseph Anderson,India,United States,2000-07-14,2026-08-06
+76,Jessica Thomas,United States,United Kingdom,2000-10-22,2026-08-07
+77,Thomas Taylor,United Kingdom,Canada,2001-01-30,2026-08-08
+78,Sarah Moore,Canada,Australia,2001-05-10,2026-08-09
+79,Charles Jackson,Australia,India,2001-08-18,2026-08-10
+80,Karen Martin,India,United States,2001-11-26,2026-08-01
+81,James Smith,United States,United Kingdom,2002-03-06,2026-08-02
+82,Mary Johnson,United Kingdom,Canada,2002-06-14,2026-08-03
+83,John Williams,Canada,Australia,2002-09-22,2026-08-04
+84,Patricia Brown,Australia,India,2002-12-31,2026-08-05
+85,Robert Jones,India,United States,2003-04-10,2026-08-06
+86,Jennifer Garcia,United States,United Kingdom,2003-07-19,2026-08-07
+87,Michael Miller,United Kingdom,Canada,2003-10-27,2026-08-08
+88,Linda Davis,Canada,Australia,2004-02-04,2026-08-09
+89,William Rodriguez,Australia,India,2004-05-14,2026-08-10
+90,Elizabeth Martinez,India,United States,2004-08-22,2026-08-01
+91,David Hernandez,United States,United Kingdom,2004-11-30,2026-08-02
+92,Barbara Lopez,United Kingdom,Canada,2005-03-10,2026-08-03
+93,Richard Gonzalez,Canada,Australia,2005-06-18,2026-08-04
+94,Susan Wilson,Australia,India,2005-09-26,2026-08-05
+95,Joseph Anderson,India,United States,2006-01-04,2026-08-06
+96,Jessica Thomas,United States,United Kingdom,2006-04-14,2026-08-07
+97,Thomas Taylor,United Kingdom,Canada,2006-07-23,2026-08-08
+98,Sarah Moore,Canada,Australia,2006-10-31,2026-08-09
+99,Charles Jackson,Australia,India,2007-02-08,2026-08-10
+100,Karen Martin,India,United States,2007-05-19,2026-08-01
